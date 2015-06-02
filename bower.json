@@ -1,6 +1,6 @@
 {
     "name": "breakpoint-slicer-scss",
-    "version": "1.3.6",
+    "version": "1.3.7",
     "homepage": "https://github.com/bq/breakpoint-slicer",
     "authors": [
         "front-end bq <front-end@bq.com>",
@@ -40,6 +40,6 @@
         "tests"
     ]
     "dependencies": {
-        "compass-breakpoint": "^2.0.1"
+        "breakpoint-sass": "2.6.1"
     }
 }

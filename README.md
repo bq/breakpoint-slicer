@@ -10,7 +10,6 @@ Breakpoint Slicer scss
 
 Install breakpoint-slicer-scss with bower:
 
-	$ bower install breakpoint-sass --save-dev
     $ bower install breakpoint-slicer-scss --save-dev
 
 import it in your stylesheets
