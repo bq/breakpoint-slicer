@@ -7,7 +7,6 @@ Breakpoint Slicer scss
 **Not official Breakpoint Slicer scss**
 
 ## Usage
-[[Back To Top]](#jump-to-section)
 
 Install breakpoint-slicer-scss with bower:
 
